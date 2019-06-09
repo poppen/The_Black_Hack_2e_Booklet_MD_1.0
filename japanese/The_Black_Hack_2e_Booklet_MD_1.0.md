@@ -159,33 +159,59 @@
 ----
 
 # 2. MOVEMENT & DISTANCE
+# 2. 移動と距離
 
 ## ABSTRACT DISTANCES
+## 抽象的な距離
  _The Black Hack_ uses four range bands for measuring relative positions of **_Characters_** , other **_Creatures,_** and things in the world. From nearest to farthest:
  **_Close, Nearby, Faraway_** and **_Distant_**.
+
+ _The black Hack_ は **キャラクター** と他の **クリーチャー**、そして、物語世界の物体との相対的な位置を測るために4つの距離範囲を用いる。最も近くから最も遠くまでは次のように表現される。**_近接、間近、中遠_**、ならびに**_遠隔_** である。
 
  These ranges are designed to support the narrative ‘theatre of the mind’ style of play, where a map and miniatures aren’t being used. Therefore, it is useful if everything in the world is tracked by its relative distance from the various points of interest around it.
  For example, in play a **_GM_** might narrate a room to the players by saying, “ _You are_ **_Close_** _to the northern doorway, which is_ **_Nearby_** _the fountain_. _The torch on the southern wall is_ **_Faraway_** _from you_. _”_
 
+ これらの距離はマップやミニチュアを使わず、語りによる「脳中の劇場」スタイルのゲームを支援するよう設計されている。そのため、物語世界における万物を様々な注目点から相対的な距離で測るのに便利である。
+ たとえば、ゲーム中、**GM** はある部屋についてプレイヤーに「_きみたちは北の出入口に **_近接_** し、**_間近_** には泉がある。_ _南の壁にあるたいまつまでは **_中遠_** だ_」と語ることもできる。
+
 ## CREATURE MOVEMENT
+## クリーチャーの移動
  During their **_Turn_** , **_Creatures_** may normally **_Move_** somewhere **_Nearby_**. If a **_Creature_** is **_Nearby_** to something and decides to **_Move_** towards it, they’re now **_Close_** to it. **_Moving_** shifts you one step along the range band, either closer to or further away from a **_Creature_** , object, or location.
 
+ 自分の **_手番_**で、**_クリーチャー_** は通常、**_間近_** の場所に **_移動_** する。他の **_クリーチャー_** が **_間近_** にいて、そこに向かって移動しようとすると、かれらは **_近接_** することになる。**_移動_** すると距離範囲がひとつずれ、**_クリーチャー_**や物体、場所に近づくか、そこから離れることになる。
+
 ## TOKENS ARE USEFUL
+## 便利なトークン
  Whilst a full range of miniatures isn’t necessary to play _The Black Hack_ , tokens such as coins or chess pieces may be extremely useful for tracking relative positions - such as who is behind or in front of someone and other complex situations like combat encounters.
 
+ _The Black Hack_ を遊ぶためにミニチュア一式は必要ないが、コインやチェスの駒のようなトークンは、誰が誰の後ろにいるのか、誰が誰の前にいるのか、あるいは戦闘のような他の複雑な状況における相対的な位置を確認するのに非常に役立つだろう。
+
 ## EXPLORING, DISTANCE & ACTIONS
+## 探索と距離、行動
  Various interactions with the environment and the things in it will require Characters to be certain distances from the target. For example, to Attack someone with a sword a Character would need to be Close to them, to shoot them with a bow a Character should ideally be Faraway.
 
+ 環境や環境にあるものとの様々なやりとりには、目標との一定の距離が要求される。たとえば、剣で攻擊するには、キャラクターは近接にいる必要があり、弓で射るには、キャラクターは理想的には中遠にいる必要があるだろう。
+
 ## RELATIVE DISTANCES
+## 相対的な距離
  These range bands scale up or down to any level, much like Relative Time (p.1). From adjacent rooms to towns and mountains, everything in the world can be defined by its relative distance to another point. During tense Moments it scales down significantly - Close being less than 5 ft. away and Nearby around 25 ft. away. While the Characters explore a location and they have Minutes at their disposal, a Nearby place could be the end of a path, over 250 ft. away.
 
+ これらの距離範囲は、相対的な時間（p.1）のように、任意のレベルで拡大や縮小される。隣の部屋から町や山脈まで、物語世界のすべては、別の場所やものへの相対的な距離で定義できる。緊迫したモーメンツの間は、距離は近接であれば5フィート以下、間近は約25フィートまで大幅に縮小される。キャラクターがある場所を探索するときには、好きにミニッツを使えて、間近の場所は250フィート以上向こうの道の終わりになることもあるだろう。
+
 ## CONVERTING MEASUREMENTS
+## 距離の変換
  Here are some approximate guides to converting real measurements or increments onto a battle mat - useful for miniatures and using adventures written for other games.
 
+  ミニチュアや他のゲームのシナリオを使うために役立つよう、実際の距離または戦闘マットのマス目の数へ変換するためのおおよそのガイドを示す。
+
   * **Close** - roughly 5 ft. or 1 Square
+  * **近接** - 約5フィート。または1マス
   * **Nearby** - up to 30 ft. or 6 Squares
+  * **間近** - 最大30フィート。または6マス
   * **Faraway** - up to 60 ft. or 12 Squares
+  * **中遠** - 最大60フィート。または12マス
   * **Distant** - beyond 60 ft. or 12 Squares
+  * **遠隔** - 60フィートより以遠。または12マス
 
 ----
 
